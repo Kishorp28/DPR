@@ -1,0 +1,501 @@
+id,project_type,location,funding_amount_cr,prior_experience_years,estimated_duration_months,actual_duration_months,cost_overrun_pct,delay,approval_outcome,issues_found,quality_score,quality_category
+1,Health,Mizoram,19.16,5,31.1,31.4,5.0,False,Approved,Timeline Unrealistic; Technical Flaw,8.43,Good
+2,Power,Tripura,99.23,0,18.8,24.8,32.4,True,Approved,Budget Miscalculation; Environmental Non-Compliance; Timeline Unrealistic,5.04,Needs Revision
+3,Health,Sikkim,98.34,0,8.0,14.2,12.79,True,Revised,Timeline Unrealistic,5.08,Needs Revision
+4,Health,Sikkim,61.39,2,44.2,44.4,0.0,False,Approved,Timeline Unrealistic,10.0,Good
+5,Power,Arunachal Pradesh,89.59,10,36.5,41.3,28.52,False,Revised,None,7.97,Good
+6,Health,Meghalaya,28.32,5,39.7,43.1,0.0,False,Approved,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,8.38,Good
+7,Road,Manipur,8.33,1,10.9,11.5,46.75,True,Approved,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,7.87,Good
+8,Road,Manipur,12.84,10,41.7,48.3,11.8,True,Rejected,Technical Flaw,4.25,Poor
+9,Health,Mizoram,51.35,10,11.9,18.8,26.99,True,Approved,Budget Miscalculation; Timeline Unrealistic,9.11,Good
+10,Health,Meghalaya,22.63,3,43.5,43.7,40.37,False,Approved,None,9.02,Good
+11,Tourism,Assam,49.0,0,11.0,14.9,70.72,True,Rejected,None,10.0,Good
+12,Power,Manipur,30.79,0,47.9,48.8,0.0,False,Approved,Environmental Non-Compliance; Timeline Unrealistic; Technical Flaw,8.24,Good
+13,Power,Tripura,55.74,3,9.4,10.7,12.11,False,Revised,Budget Miscalculation,9.07,Good
+14,Tourism,Nagaland,69.89,2,30.8,30.4,0.83,False,Approved,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,6.67,Needs Revision
+15,Road,Manipur,34.77,0,14.8,17.0,52.18,True,Revised,Timeline Unrealistic; Environmental Non-Compliance; Budget Miscalculation,10.0,Good
+16,Education,Mizoram,88.38,0,17.7,18.5,63.5,False,Revised,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,9.15,Good
+17,Tourism,Tripura,11.05,2,46.9,57.7,0.0,True,Approved,None,5.48,Needs Revision
+18,Health,Tripura,65.31,2,33.6,40.2,4.68,True,Approved,Technical Flaw,9.68,Good
+19,Power,Mizoram,50.76,3,34.1,36.1,11.51,False,Rejected,Timeline Unrealistic; Technical Flaw; Environmental Non-Compliance,5.93,Needs Revision
+20,Health,Assam,95.35,5,24.0,24.0,48.18,False,Approved,Technical Flaw; Environmental Non-Compliance,6.71,Needs Revision
+21,Power,Manipur,57.44,1,31.8,42.3,10.51,True,Rejected,None,6.44,Needs Revision
+22,Power,Manipur,26.36,5,9.4,8.8,0.0,False,Approved,Budget Miscalculation,9.45,Good
+23,Power,Arunachal Pradesh,44.41,10,19.8,23.7,0.0,False,Revised,None,6.04,Needs Revision
+24,Education,Assam,82.96,3,15.1,19.8,4.27,True,Approved,Timeline Unrealistic; Environmental Non-Compliance,7.51,Good
+25,Road,Tripura,27.81,3,37.2,43.3,0.0,True,Approved,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,9.63,Good
+26,Road,Tripura,93.53,0,46.1,47.0,41.58,False,Approved,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,4.55,Poor
+27,Education,Sikkim,5.03,10,47.1,59.9,0.0,True,Revised,Technical Flaw; Timeline Unrealistic; Environmental Non-Compliance,7.92,Good
+28,Education,Meghalaya,5.49,1,32.3,31.4,64.24,False,Approved,Timeline Unrealistic; Technical Flaw,7.54,Good
+29,Health,Arunachal Pradesh,57.76,0,25.2,35.0,70.61,True,Revised,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,4.89,Poor
+30,Tourism,Arunachal Pradesh,68.62,0,33.5,40.1,51.12,True,Approved,Timeline Unrealistic,9.96,Good
+31,Road,Mizoram,96.79,3,13.5,14.3,40.34,False,Approved,Budget Miscalculation; Environmental Non-Compliance,7.86,Good
+32,Education,Sikkim,75.7,0,21.9,26.3,37.24,True,Approved,Environmental Non-Compliance; Timeline Unrealistic; Budget Miscalculation,9.46,Good
+33,Health,Nagaland,68.0,3,30.1,36.4,22.42,True,Approved,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,9.08,Good
+34,Power,Arunachal Pradesh,6.7,1,24.5,28.5,26.32,True,Rejected,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,4.54,Poor
+35,Power,Assam,82.36,1,12.2,18.6,17.49,True,Revised,None,7.96,Good
+36,Health,Sikkim,48.69,3,29.5,36.8,45.32,True,Approved,Budget Miscalculation; Timeline Unrealistic; Technical Flaw,4.96,Poor
+37,Road,Sikkim,74.86,5,16.0,20.9,23.89,True,Approved,Timeline Unrealistic,7.71,Good
+38,Education,Manipur,91.99,3,29.3,32.1,26.15,False,Approved,None,9.87,Good
+39,Health,Arunachal Pradesh,95.09,10,25.1,31.4,13.87,True,Approved,Environmental Non-Compliance,6.04,Needs Revision
+40,Road,Assam,31.64,3,31.3,36.1,0.0,True,Revised,Environmental Non-Compliance; Timeline Unrealistic,9.67,Good
+41,Power,Manipur,5.48,0,38.7,49.6,73.9,True,Approved,Environmental Non-Compliance; Technical Flaw,4.41,Poor
+42,Road,Mizoram,6.58,10,35.1,37.1,37.5,False,Rejected,Technical Flaw,5.48,Needs Revision
+43,Road,Manipur,28.2,3,15.6,17.5,30.91,True,Approved,Timeline Unrealistic,7.26,Good
+44,Health,Mizoram,9.75,2,22.9,30.8,0.0,True,Approved,Environmental Non-Compliance,4.87,Poor
+45,Power,Arunachal Pradesh,64.03,2,9.8,14.2,27.37,False,Approved,Environmental Non-Compliance,9.1,Good
+46,Road,Arunachal Pradesh,77.12,3,25.3,32.8,24.63,True,Approved,Environmental Non-Compliance; Technical Flaw,5.15,Needs Revision
+47,Health,Tripura,69.95,0,43.7,51.7,50.07,True,Approved,None,4.54,Poor
+48,Education,Assam,36.24,10,21.3,29.2,34.52,True,Approved,Timeline Unrealistic; Budget Miscalculation,9.71,Good
+49,Power,Meghalaya,80.81,0,31.1,30.7,40.24,False,Rejected,Timeline Unrealistic,4.78,Poor
+50,Tourism,Sikkim,69.03,10,37.5,38.0,0.0,False,Approved,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,5.44,Needs Revision
+51,Road,Sikkim,9.83,10,11.0,14.6,29.68,False,Approved,Budget Miscalculation; Environmental Non-Compliance,7.57,Good
+52,Road,Meghalaya,13.63,0,20.2,25.7,45.57,True,Approved,None,5.42,Needs Revision
+53,Health,Nagaland,19.47,10,39.8,38.2,0.0,False,Approved,None,6.48,Needs Revision
+54,Health,Sikkim,81.89,0,26.6,28.4,61.56,False,Approved,None,10.0,Good
+55,Health,Assam,73.89,3,10.8,9.9,14.43,False,Approved,Technical Flaw; Environmental Non-Compliance,6.39,Needs Revision
+56,Power,Meghalaya,20.97,1,9.7,10.4,0.0,True,Approved,Budget Miscalculation,4.75,Poor
+57,Health,Meghalaya,41.44,5,36.7,47.2,9.06,True,Approved,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,8.71,Good
+58,Tourism,Mizoram,19.45,2,33.9,34.7,17.94,False,Revised,Budget Miscalculation; Timeline Unrealistic,6.87,Needs Revision
+59,Road,Assam,36.18,1,28.8,39.2,46.82,True,Approved,Technical Flaw; Budget Miscalculation; Timeline Unrealistic,7.9,Good
+60,Tourism,Meghalaya,99.77,0,19.1,17.3,0.0,False,Approved,Technical Flaw,6.55,Needs Revision
+61,Health,Mizoram,13.62,5,28.7,26.8,20.45,False,Approved,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,7.66,Good
+62,Power,Tripura,58.76,1,45.8,56.5,0.0,True,Approved,Budget Miscalculation; Environmental Non-Compliance,4.91,Poor
+63,Education,Tripura,3.28,1,38.4,44.8,5.17,True,Revised,Technical Flaw; Environmental Non-Compliance,5.43,Needs Revision
+64,Health,Nagaland,83.91,0,42.5,49.4,44.35,True,Approved,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,6.42,Needs Revision
+65,Road,Arunachal Pradesh,92.07,1,25.6,28.9,68.88,True,Revised,Environmental Non-Compliance,5.45,Needs Revision
+66,Road,Assam,78.27,2,32.6,31.8,0.0,False,Revised,None,4.9,Poor
+67,Road,Sikkim,59.94,5,22.7,28.5,39.99,True,Approved,None,6.06,Needs Revision
+68,Power,Arunachal Pradesh,53.91,0,22.8,31.4,11.64,True,Revised,Timeline Unrealistic; Budget Miscalculation; Technical Flaw,8.13,Good
+69,Health,Tripura,71.88,5,23.1,29.3,12.69,True,Approved,None,9.68,Good
+70,Power,Manipur,25.07,10,31.3,30.3,48.13,False,Approved,Timeline Unrealistic; Budget Miscalculation,7.92,Good
+71,Education,Manipur,13.15,2,30.5,30.9,44.63,False,Approved,Environmental Non-Compliance,5.67,Needs Revision
+72,Road,Arunachal Pradesh,86.25,2,45.8,47.2,7.01,False,Revised,Timeline Unrealistic; Environmental Non-Compliance; Budget Miscalculation,4.57,Poor
+73,Power,Mizoram,40.85,0,11.9,13.4,73.83,True,Approved,Budget Miscalculation; Timeline Unrealistic,4.91,Poor
+74,Power,Assam,41.12,10,40.8,48.0,0.0,True,Revised,Budget Miscalculation,8.0,Good
+75,Power,Mizoram,83.97,5,22.1,29.7,2.35,True,Approved,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,6.76,Needs Revision
+76,Health,Assam,72.43,2,45.9,56.4,47.7,True,Approved,Environmental Non-Compliance; Budget Miscalculation,9.41,Good
+77,Tourism,Mizoram,16.31,0,38.4,49.2,0.0,True,Approved,Timeline Unrealistic; Budget Miscalculation,5.56,Needs Revision
+78,Education,Meghalaya,69.77,10,6.2,11.1,0.0,True,Revised,None,7.48,Good
+79,Tourism,Tripura,64.26,0,33.7,41.8,63.69,True,Approved,Timeline Unrealistic,4.56,Poor
+80,Road,Sikkim,56.02,10,44.5,44.5,0.0,False,Revised,Environmental Non-Compliance,7.13,Good
+81,Tourism,Arunachal Pradesh,52.72,0,33.3,44.2,42.05,True,Approved,Budget Miscalculation,7.7,Good
+82,Health,Mizoram,66.5,5,32.3,36.9,30.79,True,Revised,Environmental Non-Compliance,7.51,Good
+83,Tourism,Manipur,99.8,3,8.2,11.2,0.0,True,Approved,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,5.05,Needs Revision
+84,Health,Mizoram,73.49,0,10.6,12.4,21.54,True,Approved,None,6.93,Needs Revision
+85,Health,Meghalaya,95.69,5,39.0,43.2,0.0,False,Revised,Timeline Unrealistic; Technical Flaw,5.48,Needs Revision
+86,Tourism,Tripura,94.33,10,31.5,37.4,11.53,True,Approved,Timeline Unrealistic; Budget Miscalculation,4.82,Poor
+87,Road,Assam,92.85,1,28.1,35.1,0.0,True,Revised,Budget Miscalculation; Environmental Non-Compliance,8.2,Good
+88,Road,Assam,89.6,5,9.8,16.0,13.28,True,Revised,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,8.38,Good
+89,Tourism,Arunachal Pradesh,41.44,10,16.9,19.8,24.79,True,Approved,None,7.18,Good
+90,Education,Manipur,82.64,1,28.8,38.7,55.04,True,Approved,Environmental Non-Compliance; Technical Flaw,9.44,Good
+91,Power,Meghalaya,62.24,10,13.9,18.1,48.07,False,Approved,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,9.76,Good
+92,Power,Nagaland,75.91,3,6.3,11.1,0.0,False,Approved,Technical Flaw; Timeline Unrealistic,5.15,Needs Revision
+93,Power,Assam,96.34,3,32.6,35.4,5.13,False,Approved,Timeline Unrealistic; Environmental Non-Compliance,4.89,Poor
+94,Road,Nagaland,62.47,2,41.8,44.3,33.8,False,Approved,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,9.24,Good
+95,Tourism,Manipur,68.65,1,12.7,19.2,70.82,True,Approved,None,9.38,Good
+96,Health,Nagaland,14.0,2,45.9,50.5,0.0,False,Approved,Timeline Unrealistic; Budget Miscalculation,5.72,Needs Revision
+97,Road,Arunachal Pradesh,89.52,1,15.0,15.5,0.0,False,Revised,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,9.66,Good
+98,Tourism,Nagaland,53.51,2,39.5,44.2,0.0,False,Approved,Technical Flaw; Timeline Unrealistic,7.86,Good
+99,Health,Meghalaya,56.28,0,12.8,16.3,24.44,True,Revised,None,8.36,Good
+100,Tourism,Mizoram,75.95,3,38.8,37.5,0.0,False,Approved,None,7.27,Good
+101,Road,Arunachal Pradesh,77.8,1,19.7,21.9,6.59,True,Approved,Budget Miscalculation,7.79,Good
+102,Power,Sikkim,20.81,3,10.4,17.0,35.32,True,Approved,Technical Flaw; Timeline Unrealistic; Environmental Non-Compliance,9.33,Good
+103,Health,Nagaland,61.61,2,43.6,46.1,40.86,False,Approved,Budget Miscalculation,4.67,Poor
+104,Education,Assam,87.31,1,19.8,20.9,55.82,False,Approved,Budget Miscalculation; Timeline Unrealistic; Technical Flaw,8.36,Good
+105,Road,Manipur,65.38,1,22.9,26.9,0.0,True,Revised,None,6.82,Needs Revision
+106,Education,Meghalaya,73.8,10,47.5,49.5,0.0,False,Approved,None,9.77,Good
+107,Power,Manipur,59.64,10,21.1,20.7,23.29,False,Rejected,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,8.09,Good
+108,Power,Sikkim,41.89,10,26.7,27.8,0.0,False,Approved,None,5.19,Needs Revision
+109,Road,Meghalaya,26.56,5,6.4,7.3,29.94,True,Approved,Budget Miscalculation,6.12,Needs Revision
+110,Health,Nagaland,15.43,5,16.4,18.9,35.34,True,Approved,None,6.92,Needs Revision
+111,Health,Tripura,58.95,10,14.6,16.0,0.0,True,Approved,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,5.03,Needs Revision
+112,Education,Manipur,32.3,0,30.6,39.5,29.8,True,Approved,None,7.64,Good
+113,Tourism,Arunachal Pradesh,34.92,10,11.9,17.2,0.0,True,Approved,Timeline Unrealistic; Budget Miscalculation,4.74,Poor
+114,Education,Sikkim,18.54,1,33.8,40.3,28.07,True,Revised,Timeline Unrealistic; Environmental Non-Compliance,4.77,Poor
+115,Health,Assam,60.46,10,22.5,27.5,5.33,False,Approved,None,9.53,Good
+116,Education,Sikkim,74.11,3,33.3,37.6,46.28,False,Revised,Environmental Non-Compliance; Technical Flaw,6.62,Needs Revision
+117,Road,Mizoram,33.13,3,31.6,33.8,19.02,False,Approved,Budget Miscalculation; Timeline Unrealistic,7.69,Good
+118,Power,Arunachal Pradesh,46.89,2,28.8,32.5,42.36,False,Approved,None,7.44,Good
+119,Power,Meghalaya,95.6,5,40.5,53.3,44.84,True,Approved,Environmental Non-Compliance; Technical Flaw,6.59,Needs Revision
+120,Education,Meghalaya,26.42,3,34.1,32.8,26.61,False,Rejected,Timeline Unrealistic,9.07,Good
+121,Health,Arunachal Pradesh,80.18,0,29.8,31.2,0.0,False,Revised,None,5.07,Needs Revision
+122,Education,Nagaland,59.76,1,14.9,19.2,30.83,False,Approved,Technical Flaw,5.95,Needs Revision
+123,Health,Sikkim,67.09,1,38.2,44.9,0.0,True,Approved,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,7.55,Good
+124,Education,Sikkim,23.79,2,15.7,20.7,29.72,False,Approved,None,6.69,Needs Revision
+125,Road,Manipur,99.13,3,40.4,43.8,16.86,False,Approved,None,6.44,Needs Revision
+126,Road,Sikkim,7.87,0,40.9,40.8,5.24,False,Approved,Timeline Unrealistic; Technical Flaw,6.04,Needs Revision
+127,Health,Arunachal Pradesh,36.93,2,36.7,41.4,3.01,False,Approved,Environmental Non-Compliance; Technical Flaw,7.4,Good
+128,Road,Sikkim,75.86,0,18.6,21.2,35.62,True,Revised,Environmental Non-Compliance,8.41,Good
+129,Power,Tripura,75.77,0,31.6,36.7,11.95,True,Approved,None,6.46,Needs Revision
+130,Road,Manipur,82.7,10,24.8,26.3,25.78,False,Revised,None,10.0,Good
+131,Power,Mizoram,38.68,1,42.5,49.5,59.25,True,Approved,Technical Flaw,6.27,Needs Revision
+132,Power,Assam,57.94,5,42.2,45.6,24.35,False,Approved,Technical Flaw; Environmental Non-Compliance,5.17,Needs Revision
+133,Education,Arunachal Pradesh,51.1,3,9.4,13.9,6.1,False,Revised,None,4.26,Poor
+134,Power,Meghalaya,37.12,2,29.7,37.0,0.0,True,Rejected,Environmental Non-Compliance; Budget Miscalculation,6.77,Needs Revision
+135,Education,Assam,78.49,10,10.2,15.2,3.11,False,Revised,Timeline Unrealistic; Environmental Non-Compliance,8.33,Good
+136,Power,Sikkim,79.42,10,33.5,32.7,26.28,False,Approved,None,5.2,Needs Revision
+137,Education,Arunachal Pradesh,68.42,5,15.0,22.9,0.0,True,Revised,None,5.94,Needs Revision
+138,Education,Meghalaya,27.34,5,26.5,35.0,0.0,True,Approved,None,6.49,Needs Revision
+139,Road,Assam,11.11,0,45.6,59.2,5.73,True,Approved,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,8.01,Good
+140,Road,Sikkim,89.05,5,12.3,10.6,25.61,False,Approved,Environmental Non-Compliance; Timeline Unrealistic,4.87,Poor
+141,Education,Meghalaya,74.01,1,25.4,28.9,72.81,False,Approved,Timeline Unrealistic,9.35,Good
+142,Power,Nagaland,9.18,3,43.8,46.4,11.39,False,Approved,Timeline Unrealistic; Budget Miscalculation; Technical Flaw,7.91,Good
+143,Power,Arunachal Pradesh,80.07,3,25.9,30.4,0.0,False,Approved,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,4.66,Poor
+144,Power,Sikkim,10.41,2,29.1,39.4,8.18,True,Approved,Timeline Unrealistic; Technical Flaw,10.0,Good
+145,Road,Meghalaya,91.97,1,32.7,36.0,0.0,False,Approved,Budget Miscalculation; Environmental Non-Compliance,7.73,Good
+146,Health,Mizoram,73.07,1,11.5,15.4,61.33,True,Revised,None,7.91,Good
+147,Tourism,Sikkim,69.2,3,32.7,30.8,8.0,False,Approved,None,4.94,Poor
+148,Power,Arunachal Pradesh,21.2,1,37.2,37.8,46.12,False,Approved,Budget Miscalculation; Timeline Unrealistic; Technical Flaw,9.15,Good
+149,Road,Arunachal Pradesh,76.11,3,19.7,27.8,0.0,True,Revised,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,8.71,Good
+150,Tourism,Arunachal Pradesh,39.76,5,6.1,6.5,0.0,True,Approved,None,9.44,Good
+151,Tourism,Tripura,11.31,1,29.6,33.2,45.26,False,Approved,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,4.52,Poor
+152,Education,Meghalaya,78.7,10,14.8,16.6,26.01,True,Rejected,None,4.77,Poor
+153,Tourism,Assam,93.38,5,13.3,18.7,24.81,True,Revised,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,10.0,Good
+154,Health,Mizoram,97.99,2,7.1,7.0,0.0,False,Approved,None,6.05,Needs Revision
+155,Tourism,Mizoram,84.35,5,26.2,28.6,46.87,False,Approved,Technical Flaw; Budget Miscalculation,9.1,Good
+156,Road,Nagaland,23.3,3,11.7,10.2,32.85,False,Approved,Technical Flaw,5.77,Needs Revision
+157,Power,Tripura,37.75,1,41.5,53.7,0.0,True,Approved,Technical Flaw,6.26,Needs Revision
+158,Tourism,Sikkim,9.56,1,36.8,37.5,9.6,False,Revised,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,7.01,Good
+159,Education,Manipur,72.79,5,29.7,30.2,48.6,False,Approved,Technical Flaw,4.9,Poor
+160,Road,Assam,98.07,5,42.1,43.9,3.38,False,Approved,Timeline Unrealistic,5.49,Needs Revision
+161,Road,Arunachal Pradesh,10.66,2,33.3,37.0,3.11,False,Approved,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,5.26,Needs Revision
+162,Health,Arunachal Pradesh,33.69,10,37.7,47.8,0.0,True,Approved,Environmental Non-Compliance,7.53,Good
+163,Road,Sikkim,55.7,10,20.4,28.1,0.0,True,Approved,Technical Flaw; Environmental Non-Compliance,4.84,Poor
+164,Tourism,Tripura,19.49,3,39.3,40.1,31.73,False,Revised,Budget Miscalculation; Timeline Unrealistic; Technical Flaw,8.27,Good
+165,Tourism,Mizoram,90.71,1,13.1,16.3,44.86,True,Rejected,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,9.25,Good
+166,Tourism,Tripura,12.65,2,27.2,29.9,20.89,False,Approved,Budget Miscalculation; Timeline Unrealistic; Environmental Non-Compliance,6.63,Needs Revision
+167,Tourism,Mizoram,56.42,0,7.2,13.5,15.73,True,Approved,None,4.95,Poor
+168,Road,Manipur,90.23,3,25.3,25.6,24.71,False,Approved,None,8.77,Good
+169,Power,Assam,74.23,1,37.5,48.8,46.57,True,Approved,Environmental Non-Compliance; Budget Miscalculation,5.13,Needs Revision
+170,Power,Manipur,68.95,3,34.6,39.6,0.0,False,Approved,Budget Miscalculation; Environmental Non-Compliance; Technical Flaw,9.54,Good
+171,Education,Manipur,76.55,5,33.4,37.0,43.56,False,Approved,Technical Flaw,8.41,Good
+172,Tourism,Arunachal Pradesh,45.26,10,15.5,19.1,6.44,False,Approved,None,10.0,Good
+173,Road,Manipur,97.3,2,37.7,40.8,0.9,False,Approved,Environmental Non-Compliance; Technical Flaw,7.19,Good
+174,Education,Mizoram,7.77,0,16.2,19.5,0.0,True,Approved,Technical Flaw; Environmental Non-Compliance,8.5,Good
+175,Health,Meghalaya,85.37,0,19.9,21.6,74.18,False,Revised,Technical Flaw; Budget Miscalculation; Timeline Unrealistic,10.0,Good
+176,Education,Mizoram,25.98,5,31.2,41.8,0.0,True,Approved,None,7.23,Good
+177,Health,Nagaland,44.03,0,20.3,29.0,0.0,True,Approved,None,8.28,Good
+178,Health,Nagaland,78.89,2,33.4,34.9,30.03,False,Approved,Timeline Unrealistic,6.57,Needs Revision
+179,Power,Manipur,14.86,3,25.7,27.0,23.65,False,Approved,Environmental Non-Compliance; Timeline Unrealistic; Budget Miscalculation,7.3,Good
+180,Road,Nagaland,83.5,3,10.5,12.1,40.13,False,Approved,Timeline Unrealistic,4.94,Poor
+181,Education,Manipur,88.11,0,7.2,13.2,3.36,True,Approved,Budget Miscalculation; Environmental Non-Compliance; Timeline Unrealistic,9.73,Good
+182,Education,Meghalaya,67.79,0,40.6,51.2,61.59,True,Approved,None,7.96,Good
+183,Power,Meghalaya,39.0,3,21.5,24.8,0.0,False,Approved,Environmental Non-Compliance,9.85,Good
+184,Road,Arunachal Pradesh,36.83,2,31.1,36.5,6.94,True,Approved,Technical Flaw,7.36,Good
+185,Power,Assam,69.79,3,18.4,20.9,28.86,True,Approved,Technical Flaw; Environmental Non-Compliance,8.26,Good
+186,Tourism,Arunachal Pradesh,40.99,5,17.6,21.2,39.45,False,Revised,Environmental Non-Compliance; Budget Miscalculation; Timeline Unrealistic,6.79,Needs Revision
+187,Power,Manipur,60.51,3,22.5,29.5,25.58,True,Approved,None,6.34,Needs Revision
+188,Power,Meghalaya,1.66,2,23.2,23.8,33.86,False,Approved,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,8.14,Good
+189,Education,Nagaland,3.73,2,28.3,33.5,0.0,True,Revised,Budget Miscalculation; Technical Flaw,5.9,Needs Revision
+190,Education,Nagaland,13.87,1,10.9,13.1,23.55,False,Revised,None,9.84,Good
+191,Education,Tripura,34.7,3,47.2,56.3,26.61,True,Revised,Budget Miscalculation; Timeline Unrealistic,8.43,Good
+192,Education,Nagaland,68.06,5,46.6,45.6,17.36,False,Approved,Budget Miscalculation; Technical Flaw,6.75,Needs Revision
+193,Health,Arunachal Pradesh,62.72,0,39.3,51.1,54.81,True,Rejected,Budget Miscalculation,7.87,Good
+194,Education,Sikkim,87.13,5,37.3,38.6,2.89,False,Approved,Environmental Non-Compliance,7.51,Good
+195,Health,Tripura,49.7,1,26.6,34.2,42.2,True,Revised,Technical Flaw; Timeline Unrealistic,9.62,Good
+196,Health,Manipur,60.61,3,39.9,45.9,49.81,True,Approved,None,9.6,Good
+197,Education,Sikkim,63.03,1,26.0,25.0,54.2,False,Approved,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,5.99,Needs Revision
+198,Road,Nagaland,1.88,2,14.4,15.6,4.49,True,Approved,None,4.04,Poor
+199,Health,Tripura,81.11,0,41.5,48.4,6.65,True,Approved,Technical Flaw,6.5,Needs Revision
+200,Health,Mizoram,94.82,1,6.3,9.0,0.0,False,Approved,Budget Miscalculation,5.35,Needs Revision
+201,Health,Arunachal Pradesh,28.82,10,12.4,17.0,0.0,True,Revised,None,4.35,Poor
+202,Tourism,Assam,76.2,0,36.2,38.1,34.05,False,Approved,Budget Miscalculation,5.79,Needs Revision
+203,Health,Mizoram,91.76,1,22.9,26.6,0.0,False,Rejected,None,5.08,Needs Revision
+204,Education,Arunachal Pradesh,71.79,10,35.7,33.7,0.0,False,Approved,None,4.97,Poor
+205,Tourism,Assam,84.43,3,30.0,30.7,47.15,False,Revised,Timeline Unrealistic; Environmental Non-Compliance,4.68,Poor
+206,Health,Manipur,84.58,1,11.8,11.1,0.0,False,Approved,Environmental Non-Compliance; Technical Flaw,6.21,Needs Revision
+207,Tourism,Manipur,64.77,1,10.4,11.7,28.88,False,Approved,Budget Miscalculation; Technical Flaw; Timeline Unrealistic,4.34,Poor
+208,Education,Arunachal Pradesh,55.65,3,41.7,43.0,0.0,False,Revised,None,7.92,Good
+209,Health,Arunachal Pradesh,73.97,10,33.1,43.9,35.66,True,Approved,Environmental Non-Compliance; Timeline Unrealistic,5.04,Needs Revision
+210,Health,Sikkim,83.71,10,16.2,20.8,41.91,False,Approved,Technical Flaw; Budget Miscalculation,9.85,Good
+211,Education,Manipur,87.89,1,27.8,31.2,23.39,False,Approved,Budget Miscalculation,4.54,Poor
+212,Road,Arunachal Pradesh,18.99,5,20.4,22.4,11.16,False,Approved,None,9.37,Good
+213,Tourism,Tripura,78.54,0,18.2,26.2,0.0,True,Rejected,None,7.23,Good
+214,Health,Arunachal Pradesh,58.64,0,16.0,18.0,48.82,False,Rejected,None,8.01,Good
+215,Road,Arunachal Pradesh,32.2,2,12.2,17.3,31.8,True,Approved,None,8.51,Good
+216,Road,Nagaland,7.16,0,45.1,55.0,17.27,True,Approved,Technical Flaw,8.11,Good
+217,Power,Nagaland,55.11,5,25.3,29.5,43.2,False,Approved,None,7.44,Good
+218,Health,Nagaland,11.78,3,46.0,47.9,35.59,False,Approved,None,4.5,Poor
+219,Power,Nagaland,19.82,2,36.7,48.8,34.92,True,Revised,Technical Flaw; Timeline Unrealistic; Environmental Non-Compliance,8.74,Good
+220,Road,Manipur,66.99,2,46.3,50.2,42.76,False,Rejected,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,8.14,Good
+221,Health,Tripura,84.96,2,16.7,20.9,0.0,False,Approved,Technical Flaw; Timeline Unrealistic; Environmental Non-Compliance,10.0,Good
+222,Road,Tripura,51.76,0,32.7,37.6,0.0,True,Approved,Timeline Unrealistic,10.0,Good
+223,Education,Manipur,42.14,0,16.1,14.8,0.0,False,Approved,Environmental Non-Compliance; Timeline Unrealistic,4.43,Poor
+224,Power,Tripura,28.97,5,24.1,24.4,28.17,False,Revised,None,9.57,Good
+225,Education,Mizoram,76.55,1,43.3,52.1,15.33,True,Approved,Timeline Unrealistic,6.57,Needs Revision
+226,Tourism,Mizoram,46.54,2,41.1,43.7,34.68,False,Approved,None,5.93,Needs Revision
+227,Education,Sikkim,13.66,10,28.3,37.1,3.07,True,Approved,Technical Flaw; Timeline Unrealistic,6.69,Needs Revision
+228,Health,Meghalaya,31.7,2,33.8,34.0,42.42,False,Approved,None,5.25,Needs Revision
+229,Tourism,Sikkim,80.86,10,22.5,28.8,33.05,True,Rejected,Budget Miscalculation; Technical Flaw,7.91,Good
+230,Power,Nagaland,27.27,3,45.9,49.3,6.5,False,Rejected,Environmental Non-Compliance; Timeline Unrealistic,6.83,Needs Revision
+231,Tourism,Nagaland,92.18,1,36.6,36.0,20.56,False,Approved,Environmental Non-Compliance,5.17,Needs Revision
+232,Education,Sikkim,55.38,0,22.0,25.1,0.0,False,Approved,Budget Miscalculation; Environmental Non-Compliance,9.06,Good
+233,Power,Mizoram,10.65,2,27.0,28.1,26.71,False,Approved,Timeline Unrealistic; Technical Flaw; Budget Miscalculation,8.85,Good
+234,Health,Tripura,14.04,1,40.0,51.7,46.88,True,Approved,Budget Miscalculation; Technical Flaw; Environmental Non-Compliance,9.68,Good
+235,Tourism,Manipur,2.2,3,13.9,16.0,0.0,True,Approved,Environmental Non-Compliance,9.28,Good
+236,Tourism,Assam,29.29,0,34.8,46.4,4.24,True,Approved,Environmental Non-Compliance,5.34,Needs Revision
+237,Education,Tripura,99.05,1,45.5,59.5,0.86,True,Approved,Timeline Unrealistic,8.92,Good
+238,Road,Assam,35.31,3,9.1,11.5,25.84,False,Approved,Timeline Unrealistic,7.75,Good
+239,Health,Manipur,43.61,3,31.2,35.5,32.43,True,Revised,Technical Flaw; Budget Miscalculation,8.46,Good
+240,Road,Manipur,27.84,3,6.1,8.4,0.0,True,Approved,Budget Miscalculation; Technical Flaw,4.18,Poor
+241,Health,Arunachal Pradesh,37.98,5,23.1,22.9,0.0,False,Approved,None,7.89,Good
+242,Road,Arunachal Pradesh,1.82,10,19.7,23.8,4.22,False,Revised,Technical Flaw; Environmental Non-Compliance,9.99,Good
+243,Tourism,Assam,67.4,1,36.0,47.3,0.0,True,Rejected,Environmental Non-Compliance; Budget Miscalculation,5.62,Needs Revision
+244,Power,Tripura,36.13,1,36.8,48.8,50.47,True,Revised,Budget Miscalculation,9.78,Good
+245,Tourism,Arunachal Pradesh,51.85,2,27.9,37.9,0.0,True,Approved,None,6.47,Needs Revision
+246,Road,Arunachal Pradesh,78.95,5,23.3,24.8,31.9,False,Approved,Technical Flaw; Environmental Non-Compliance,6.91,Needs Revision
+247,Tourism,Arunachal Pradesh,3.17,3,30.8,36.4,23.48,True,Approved,Budget Miscalculation; Timeline Unrealistic,6.47,Needs Revision
+248,Education,Tripura,52.13,0,13.8,16.6,66.13,False,Approved,None,7.58,Good
+249,Education,Sikkim,8.59,0,40.8,44.3,0.0,False,Approved,None,5.43,Needs Revision
+250,Education,Assam,8.69,5,27.1,29.9,0.0,False,Revised,Budget Miscalculation; Environmental Non-Compliance,6.68,Needs Revision
+251,Education,Sikkim,67.69,5,36.3,39.5,24.47,False,Revised,None,5.31,Needs Revision
+252,Road,Nagaland,17.41,1,43.0,45.1,0.0,False,Approved,Budget Miscalculation,5.09,Needs Revision
+253,Tourism,Nagaland,22.74,3,30.0,34.1,20.74,False,Approved,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,5.34,Needs Revision
+254,Education,Nagaland,57.97,5,28.4,27.2,0.0,False,Approved,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,5.53,Needs Revision
+255,Road,Manipur,21.23,0,46.0,48.7,45.85,False,Approved,None,8.39,Good
+256,Health,Assam,54.03,0,25.5,30.6,15.26,True,Approved,None,6.7,Needs Revision
+257,Tourism,Mizoram,41.56,0,39.7,51.8,15.26,True,Approved,None,7.48,Good
+258,Power,Arunachal Pradesh,51.82,10,24.2,28.6,27.95,True,Approved,Environmental Non-Compliance; Budget Miscalculation; Timeline Unrealistic,6.48,Needs Revision
+259,Health,Manipur,66.02,2,45.0,45.6,41.57,False,Approved,Technical Flaw,4.73,Poor
+260,Power,Arunachal Pradesh,78.41,5,20.7,24.3,37.93,True,Rejected,Environmental Non-Compliance; Technical Flaw,9.73,Good
+261,Road,Tripura,76.11,2,24.2,27.5,42.63,False,Approved,None,6.7,Needs Revision
+262,Road,Tripura,60.38,1,23.8,27.2,38.03,True,Approved,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,8.26,Good
+263,Road,Sikkim,64.04,2,32.7,42.1,13.48,True,Approved,Budget Miscalculation; Technical Flaw; Environmental Non-Compliance,8.29,Good
+264,Health,Tripura,76.32,10,39.0,46.4,37.39,True,Approved,Technical Flaw,9.71,Good
+265,Health,Tripura,85.95,10,24.0,27.2,0.0,False,Approved,None,8.92,Good
+266,Education,Tripura,96.76,2,48.0,52.0,37.41,False,Revised,Budget Miscalculation; Environmental Non-Compliance,6.95,Needs Revision
+267,Health,Manipur,36.68,2,23.1,27.8,0.0,True,Approved,Timeline Unrealistic; Budget Miscalculation,8.76,Good
+268,Tourism,Arunachal Pradesh,56.78,5,42.3,45.6,29.05,False,Approved,Environmental Non-Compliance,5.66,Needs Revision
+269,Tourism,Nagaland,37.78,3,28.2,33.0,0.0,False,Approved,None,7.21,Good
+270,Education,Arunachal Pradesh,36.88,10,21.7,24.5,8.37,False,Approved,None,5.12,Needs Revision
+271,Health,Assam,18.76,3,7.8,6.2,22.65,False,Approved,None,6.82,Needs Revision
+272,Health,Nagaland,91.11,3,26.5,26.5,7.68,False,Revised,Budget Miscalculation,8.67,Good
+273,Power,Nagaland,91.65,3,43.0,55.6,32.95,True,Revised,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,6.18,Needs Revision
+274,Tourism,Manipur,3.97,1,35.0,38.5,46.42,False,Approved,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,6.4,Needs Revision
+275,Power,Nagaland,31.3,10,22.2,26.2,0.0,True,Approved,Budget Miscalculation,5.16,Needs Revision
+276,Tourism,Mizoram,76.17,3,17.7,20.9,16.31,True,Approved,Timeline Unrealistic; Environmental Non-Compliance,8.42,Good
+277,Education,Arunachal Pradesh,81.09,1,20.4,25.9,11.62,True,Approved,Timeline Unrealistic; Budget Miscalculation; Technical Flaw,7.28,Good
+278,Tourism,Meghalaya,28.09,10,42.8,54.3,49.21,True,Approved,Timeline Unrealistic,6.22,Needs Revision
+279,Health,Tripura,66.76,1,19.2,23.4,63.01,False,Approved,Timeline Unrealistic; Technical Flaw,8.78,Good
+280,Health,Nagaland,83.98,0,42.1,53.9,24.62,True,Approved,None,5.47,Needs Revision
+281,Road,Meghalaya,49.47,10,15.7,14.6,18.61,False,Approved,Timeline Unrealistic; Technical Flaw; Environmental Non-Compliance,5.56,Needs Revision
+282,Power,Tripura,29.29,5,30.2,30.0,18.56,False,Revised,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,9.22,Good
+283,Health,Assam,3.5,10,27.8,30.2,29.45,False,Approved,None,4.93,Poor
+284,Education,Assam,30.1,1,45.8,49.3,45.75,False,Approved,None,5.08,Needs Revision
+285,Power,Sikkim,60.09,5,38.3,44.2,41.38,True,Approved,Technical Flaw; Environmental Non-Compliance,8.32,Good
+286,Health,Sikkim,13.22,3,17.7,21.3,46.42,False,Rejected,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,8.41,Good
+287,Road,Tripura,28.82,10,35.2,44.2,9.99,True,Approved,None,9.28,Good
+288,Power,Nagaland,2.9,2,28.0,31.9,11.72,True,Revised,Environmental Non-Compliance; Budget Miscalculation,5.61,Needs Revision
+289,Tourism,Tripura,32.44,1,32.0,42.8,37.97,True,Approved,None,7.42,Good
+290,Health,Nagaland,79.65,3,20.3,20.1,0.0,False,Approved,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,5.51,Needs Revision
+291,Health,Nagaland,7.12,0,16.1,20.4,20.47,True,Revised,Budget Miscalculation; Timeline Unrealistic,8.01,Good
+292,Power,Manipur,90.53,5,10.8,14.9,39.21,False,Approved,Technical Flaw; Budget Miscalculation,6.59,Needs Revision
+293,Health,Sikkim,30.59,0,24.5,28.5,70.52,False,Revised,None,4.85,Poor
+294,Power,Arunachal Pradesh,14.57,10,32.6,37.4,19.51,True,Approved,Budget Miscalculation; Environmental Non-Compliance,4.71,Poor
+295,Tourism,Tripura,40.55,0,45.6,58.2,0.0,True,Approved,None,4.76,Poor
+296,Education,Assam,89.67,1,37.0,38.8,0.0,False,Approved,Technical Flaw,6.23,Needs Revision
+297,Health,Arunachal Pradesh,79.56,1,24.1,31.8,3.78,True,Approved,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,5.91,Needs Revision
+298,Power,Mizoram,74.77,10,26.0,26.3,18.13,False,Approved,None,7.27,Good
+299,Education,Sikkim,82.54,2,38.8,44.7,0.0,True,Approved,Environmental Non-Compliance,8.02,Good
+300,Power,Meghalaya,25.73,2,33.6,32.0,28.11,False,Approved,Environmental Non-Compliance; Budget Miscalculation,9.76,Good
+301,Road,Manipur,36.11,3,34.6,42.6,2.34,True,Revised,Technical Flaw,8.68,Good
+302,Education,Tripura,22.48,10,13.6,11.9,0.0,False,Approved,Timeline Unrealistic; Environmental Non-Compliance; Budget Miscalculation,7.45,Good
+303,Tourism,Sikkim,95.85,5,41.1,41.8,0.0,False,Approved,Budget Miscalculation; Technical Flaw; Environmental Non-Compliance,6.37,Needs Revision
+304,Education,Mizoram,40.42,1,40.6,42.4,0.0,False,Revised,Environmental Non-Compliance,7.2,Good
+305,Power,Tripura,28.16,1,30.1,34.1,2.95,True,Revised,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,5.41,Needs Revision
+306,Tourism,Nagaland,14.11,10,38.9,37.1,0.0,False,Approved,Timeline Unrealistic; Technical Flaw,4.79,Poor
+307,Power,Manipur,88.82,5,18.9,21.9,20.86,True,Approved,None,4.95,Poor
+308,Road,Assam,66.51,3,20.1,27.9,0.0,True,Revised,Technical Flaw; Environmental Non-Compliance,6.01,Needs Revision
+309,Road,Arunachal Pradesh,92.76,2,7.7,11.3,19.64,True,Approved,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,4.71,Poor
+310,Education,Meghalaya,97.41,1,8.6,7.5,42.46,False,Approved,Timeline Unrealistic; Environmental Non-Compliance,5.47,Needs Revision
+311,Road,Tripura,26.68,5,9.8,14.1,0.0,True,Approved,Budget Miscalculation; Timeline Unrealistic,8.11,Good
+312,Education,Mizoram,73.03,3,35.1,42.2,10.81,True,Revised,None,6.44,Needs Revision
+313,Power,Mizoram,82.91,10,22.5,22.3,9.67,False,Revised,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,5.08,Needs Revision
+314,Health,Sikkim,79.26,3,34.3,44.3,19.85,True,Approved,Timeline Unrealistic,4.88,Poor
+315,Power,Sikkim,98.85,2,13.1,15.6,38.08,False,Revised,Budget Miscalculation; Technical Flaw; Timeline Unrealistic,7.17,Good
+316,Road,Tripura,85.21,10,7.0,7.1,13.95,True,Approved,Technical Flaw; Budget Miscalculation,9.77,Good
+317,Road,Sikkim,21.82,1,39.2,47.1,38.37,True,Approved,Technical Flaw; Environmental Non-Compliance,5.02,Needs Revision
+318,Power,Assam,68.57,3,6.1,8.5,7.17,True,Revised,None,5.66,Needs Revision
+319,Education,Nagaland,13.08,1,7.9,14.0,25.6,True,Approved,Timeline Unrealistic; Technical Flaw; Budget Miscalculation,4.55,Poor
+320,Health,Sikkim,63.51,0,34.3,37.9,36.94,False,Approved,Timeline Unrealistic; Environmental Non-Compliance,5.31,Needs Revision
+321,Education,Arunachal Pradesh,55.12,5,31.2,30.2,45.86,False,Rejected,Timeline Unrealistic; Budget Miscalculation; Technical Flaw,8.46,Good
+322,Road,Tripura,67.96,3,31.8,30.4,12.68,False,Revised,None,6.99,Needs Revision
+323,Health,Tripura,90.37,10,11.3,15.8,0.0,False,Approved,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,9.82,Good
+324,Tourism,Nagaland,12.7,0,6.6,6.5,41.58,True,Revised,None,7.15,Good
+325,Road,Sikkim,38.62,5,47.5,58.4,0.0,True,Approved,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,10.0,Good
+326,Power,Tripura,99.56,10,25.5,32.0,23.82,True,Revised,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,8.29,Good
+327,Tourism,Meghalaya,69.65,5,16.8,15.4,21.3,False,Rejected,None,6.19,Needs Revision
+328,Education,Nagaland,24.02,3,29.1,34.9,14.11,True,Rejected,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,7.63,Good
+329,Tourism,Arunachal Pradesh,30.27,2,7.7,9.4,34.47,True,Approved,None,8.53,Good
+330,Tourism,Sikkim,47.15,0,35.4,37.1,25.3,False,Rejected,Environmental Non-Compliance; Timeline Unrealistic; Technical Flaw,9.23,Good
+331,Health,Nagaland,63.18,0,34.4,44.8,27.75,True,Approved,Technical Flaw; Environmental Non-Compliance,9.21,Good
+332,Road,Meghalaya,17.44,2,33.6,41.2,22.59,True,Approved,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,6.41,Needs Revision
+333,Health,Arunachal Pradesh,7.08,0,45.5,55.9,71.59,True,Approved,None,6.06,Needs Revision
+334,Education,Meghalaya,17.1,0,32.0,39.0,16.12,True,Approved,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,7.33,Good
+335,Tourism,Tripura,90.89,1,13.2,13.8,41.88,False,Approved,Budget Miscalculation; Timeline Unrealistic,7.27,Good
+336,Tourism,Arunachal Pradesh,63.38,10,21.1,21.4,9.76,False,Revised,Technical Flaw,7.94,Good
+337,Tourism,Mizoram,42.84,10,45.3,50.0,24.06,False,Approved,None,9.1,Good
+338,Education,Sikkim,61.43,5,10.9,14.3,0.0,True,Rejected,Environmental Non-Compliance,9.23,Good
+339,Power,Meghalaya,35.96,5,8.9,10.1,0.0,False,Approved,None,9.38,Good
+340,Health,Manipur,62.94,0,6.9,6.9,61.86,False,Revised,Technical Flaw; Budget Miscalculation,8.07,Good
+341,Tourism,Manipur,74.49,5,22.2,28.3,0.0,True,Approved,Budget Miscalculation; Environmental Non-Compliance; Timeline Unrealistic,5.24,Needs Revision
+342,Education,Manipur,8.04,5,47.8,56.1,0.0,True,Revised,Timeline Unrealistic; Budget Miscalculation,9.46,Good
+343,Health,Assam,33.71,10,25.1,28.7,46.85,False,Rejected,Environmental Non-Compliance,10.0,Good
+344,Tourism,Assam,15.11,5,9.8,9.0,0.0,False,Approved,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,6.57,Needs Revision
+345,Road,Meghalaya,18.53,1,7.7,6.5,41.24,False,Approved,None,8.88,Good
+346,Education,Arunachal Pradesh,33.87,3,9.1,14.3,0.0,True,Revised,None,9.15,Good
+347,Road,Assam,41.56,10,13.6,14.5,16.71,False,Approved,Budget Miscalculation; Environmental Non-Compliance,9.41,Good
+348,Power,Manipur,14.86,2,25.3,23.7,30.93,False,Approved,Timeline Unrealistic; Environmental Non-Compliance,4.14,Poor
+349,Education,Arunachal Pradesh,90.8,0,23.2,26.1,22.71,False,Approved,None,5.92,Needs Revision
+350,Tourism,Mizoram,23.24,2,40.8,39.1,0.0,False,Approved,Environmental Non-Compliance; Timeline Unrealistic,6.59,Needs Revision
+351,Education,Mizoram,44.61,3,17.0,17.0,29.96,False,Approved,Environmental Non-Compliance,8.63,Good
+352,Power,Tripura,13.73,5,25.8,27.7,0.0,False,Approved,None,5.25,Needs Revision
+353,Health,Nagaland,58.13,0,19.3,19.3,60.63,False,Approved,Technical Flaw,5.38,Needs Revision
+354,Power,Arunachal Pradesh,44.16,5,30.7,35.4,30.77,True,Approved,Technical Flaw,4.31,Poor
+355,Health,Sikkim,86.48,5,39.5,51.7,1.01,True,Approved,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,8.51,Good
+356,Power,Mizoram,72.3,0,42.9,55.8,0.0,True,Approved,Timeline Unrealistic; Environmental Non-Compliance,9.52,Good
+357,Health,Mizoram,24.67,0,37.9,50.3,30.8,True,Approved,Technical Flaw; Timeline Unrealistic,8.81,Good
+358,Road,Sikkim,96.6,3,8.3,9.3,0.0,False,Approved,Budget Miscalculation; Technical Flaw,5.37,Needs Revision
+359,Health,Tripura,63.97,10,23.0,31.1,0.0,True,Revised,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,9.7,Good
+360,Road,Manipur,95.67,10,20.2,19.0,0.0,False,Approved,Budget Miscalculation; Environmental Non-Compliance; Timeline Unrealistic,7.75,Good
+361,Tourism,Arunachal Pradesh,76.7,0,44.3,44.6,0.0,False,Approved,Budget Miscalculation,5.84,Needs Revision
+362,Health,Manipur,18.54,5,11.8,15.0,16.44,False,Revised,Timeline Unrealistic; Budget Miscalculation; Environmental Non-Compliance,8.91,Good
+363,Education,Sikkim,9.11,10,16.6,22.9,8.44,True,Approved,Environmental Non-Compliance,8.97,Good
+364,Road,Arunachal Pradesh,40.78,5,27.5,31.3,23.04,False,Rejected,Technical Flaw,8.44,Good
+365,Road,Meghalaya,72.81,1,23.1,25.9,3.54,False,Approved,Budget Miscalculation; Environmental Non-Compliance; Technical Flaw,10.0,Good
+366,Education,Tripura,99.55,3,28.9,35.0,18.46,True,Approved,Environmental Non-Compliance,7.53,Good
+367,Tourism,Nagaland,47.93,5,33.9,37.3,20.76,False,Approved,Budget Miscalculation; Timeline Unrealistic; Technical Flaw,6.75,Needs Revision
+368,Power,Sikkim,75.46,5,33.8,33.6,15.58,False,Approved,Timeline Unrealistic; Environmental Non-Compliance,7.25,Good
+369,Power,Assam,55.83,10,41.4,48.2,8.39,True,Rejected,None,4.99,Poor
+370,Power,Manipur,38.11,0,36.2,48.4,0.0,True,Approved,Budget Miscalculation; Timeline Unrealistic,4.42,Poor
+371,Power,Nagaland,34.78,5,34.8,37.5,43.87,False,Approved,Technical Flaw,7.07,Good
+372,Power,Assam,88.76,0,42.0,42.4,0.0,False,Approved,Budget Miscalculation; Technical Flaw; Timeline Unrealistic,9.36,Good
+373,Tourism,Nagaland,99.2,10,16.1,18.7,0.0,True,Approved,Budget Miscalculation; Environmental Non-Compliance,6.76,Needs Revision
+374,Health,Nagaland,49.8,0,28.6,33.5,25.45,False,Approved,Technical Flaw; Environmental Non-Compliance,9.74,Good
+375,Tourism,Assam,7.98,2,38.0,36.8,0.0,False,Approved,None,4.87,Poor
+376,Power,Tripura,12.44,3,45.3,44.7,40.98,False,Approved,Timeline Unrealistic; Budget Miscalculation,6.42,Needs Revision
+377,Tourism,Arunachal Pradesh,17.59,5,24.8,27.4,32.74,False,Approved,Budget Miscalculation,5.41,Needs Revision
+378,Power,Mizoram,95.61,3,46.7,45.5,34.98,False,Rejected,Technical Flaw,7.53,Good
+379,Education,Arunachal Pradesh,77.03,2,14.1,18.5,0.0,False,Revised,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,4.8,Poor
+380,Health,Tripura,92.7,1,12.2,13.6,61.08,True,Approved,Technical Flaw; Budget Miscalculation,8.32,Good
+381,Road,Tripura,36.89,2,35.9,37.2,0.0,False,Approved,Environmental Non-Compliance,5.38,Needs Revision
+382,Power,Assam,85.51,0,31.6,36.5,0.0,True,Approved,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,9.89,Good
+383,Road,Meghalaya,13.2,0,20.4,26.6,0.0,True,Rejected,None,5.76,Needs Revision
+384,Road,Arunachal Pradesh,73.16,3,44.5,44.9,18.6,False,Revised,Environmental Non-Compliance; Budget Miscalculation; Timeline Unrealistic,4.69,Poor
+385,Tourism,Sikkim,22.44,2,9.7,14.0,34.57,True,Revised,Timeline Unrealistic; Technical Flaw,7.43,Good
+386,Health,Assam,31.91,2,24.2,28.8,18.16,False,Approved,Timeline Unrealistic,6.53,Needs Revision
+387,Power,Nagaland,67.7,1,30.5,39.2,46.44,True,Approved,Timeline Unrealistic,7.25,Good
+388,Health,Sikkim,11.51,3,36.0,40.3,21.36,False,Approved,None,8.06,Good
+389,Health,Tripura,4.89,0,21.0,28.4,29.08,True,Revised,Budget Miscalculation,8.23,Good
+390,Tourism,Arunachal Pradesh,93.74,10,8.9,14.4,5.97,True,Approved,Budget Miscalculation; Environmental Non-Compliance,9.6,Good
+391,Tourism,Mizoram,9.73,2,34.6,37.8,0.0,False,Rejected,None,5.77,Needs Revision
+392,Education,Assam,56.41,1,34.0,38.5,71.48,False,Approved,Timeline Unrealistic,8.64,Good
+393,Tourism,Assam,56.88,3,13.3,15.4,35.59,False,Approved,Technical Flaw; Timeline Unrealistic; Environmental Non-Compliance,5.39,Needs Revision
+394,Tourism,Sikkim,3.45,3,26.6,26.0,16.72,False,Revised,Timeline Unrealistic; Environmental Non-Compliance; Budget Miscalculation,6.63,Needs Revision
+395,Power,Mizoram,80.71,3,20.6,20.9,46.13,False,Rejected,Technical Flaw,9.52,Good
+396,Road,Manipur,74.33,2,9.6,9.2,25.9,False,Approved,Timeline Unrealistic; Technical Flaw,9.4,Good
+397,Tourism,Arunachal Pradesh,50.99,3,21.9,22.7,23.31,False,Approved,Technical Flaw; Environmental Non-Compliance,7.54,Good
+398,Power,Arunachal Pradesh,10.96,5,7.7,8.0,28.88,False,Approved,None,6.48,Needs Revision
+399,Power,Arunachal Pradesh,56.9,0,31.2,32.4,21.39,False,Approved,Budget Miscalculation; Technical Flaw,6.19,Needs Revision
+400,Education,Assam,49.08,0,29.0,35.0,0.0,True,Approved,Budget Miscalculation; Technical Flaw; Environmental Non-Compliance,8.76,Good
+401,Health,Meghalaya,53.75,5,31.3,35.9,0.0,False,Approved,Budget Miscalculation; Technical Flaw; Environmental Non-Compliance,9.08,Good
+402,Education,Mizoram,20.0,3,32.2,38.0,0.0,True,Revised,Environmental Non-Compliance; Budget Miscalculation; Timeline Unrealistic,7.85,Good
+403,Road,Meghalaya,23.35,1,45.7,55.9,33.77,True,Revised,None,6.17,Needs Revision
+404,Education,Arunachal Pradesh,4.41,3,22.0,22.9,1.87,False,Approved,Environmental Non-Compliance; Budget Miscalculation; Timeline Unrealistic,9.88,Good
+405,Power,Mizoram,67.99,10,10.2,14.6,31.43,True,Revised,Technical Flaw; Budget Miscalculation,5.75,Needs Revision
+406,Education,Manipur,24.98,1,18.8,23.6,48.21,False,Approved,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,9.34,Good
+407,Tourism,Nagaland,22.66,1,37.8,48.5,45.62,True,Approved,Timeline Unrealistic; Environmental Non-Compliance; Budget Miscalculation,6.96,Needs Revision
+408,Power,Assam,40.6,2,42.4,51.2,33.7,True,Rejected,Environmental Non-Compliance; Technical Flaw; Timeline Unrealistic,7.71,Good
+409,Road,Tripura,13.97,10,7.6,9.1,48.95,False,Revised,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,8.37,Good
+410,Health,Nagaland,96.7,10,34.9,33.7,49.84,False,Approved,Budget Miscalculation; Environmental Non-Compliance; Technical Flaw,9.44,Good
+411,Health,Tripura,51.75,0,25.7,29.8,22.87,True,Approved,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,5.62,Needs Revision
+412,Health,Manipur,94.05,5,6.3,8.7,16.46,True,Approved,Environmental Non-Compliance; Budget Miscalculation,5.05,Needs Revision
+413,Education,Nagaland,4.9,0,8.0,10.5,0.0,True,Revised,Budget Miscalculation; Environmental Non-Compliance,7.4,Good
+414,Road,Nagaland,43.85,0,47.4,61.3,0.0,True,Rejected,Technical Flaw; Environmental Non-Compliance,9.99,Good
+415,Health,Nagaland,28.59,3,17.0,20.8,16.22,False,Rejected,None,6.5,Needs Revision
+416,Road,Sikkim,36.42,5,16.9,25.0,4.35,True,Revised,Environmental Non-Compliance; Timeline Unrealistic,9.64,Good
+417,Power,Manipur,94.89,10,12.8,15.1,26.88,True,Approved,Environmental Non-Compliance; Technical Flaw; Budget Miscalculation,10.0,Good
+418,Tourism,Sikkim,53.8,3,10.1,10.5,0.0,True,Revised,None,8.44,Good
+419,Road,Manipur,61.52,0,41.8,40.0,1.02,False,Approved,Environmental Non-Compliance; Timeline Unrealistic; Budget Miscalculation,7.77,Good
+420,Health,Meghalaya,24.59,0,37.5,44.3,0.0,True,Approved,Budget Miscalculation,7.55,Good
+421,Road,Mizoram,25.17,10,44.9,53.7,19.44,True,Approved,None,9.87,Good
+422,Health,Nagaland,89.66,3,19.6,23.3,8.03,True,Approved,None,9.38,Good
+423,Road,Sikkim,49.61,5,35.9,37.5,0.0,False,Rejected,Timeline Unrealistic; Budget Miscalculation,5.7,Needs Revision
+424,Tourism,Meghalaya,38.71,1,8.7,14.3,55.47,True,Approved,Technical Flaw,5.5,Needs Revision
+425,Power,Manipur,8.19,3,26.3,35.7,0.0,True,Approved,Timeline Unrealistic; Technical Flaw; Environmental Non-Compliance,6.51,Needs Revision
+426,Tourism,Mizoram,37.3,10,47.0,54.9,40.01,True,Approved,Timeline Unrealistic; Environmental Non-Compliance,4.74,Poor
+427,Education,Manipur,64.8,3,19.1,17.2,0.0,False,Approved,Environmental Non-Compliance; Budget Miscalculation; Timeline Unrealistic,8.92,Good
+428,Tourism,Manipur,81.79,3,36.5,46.5,49.37,True,Approved,Technical Flaw; Timeline Unrealistic; Budget Miscalculation,8.92,Good
+429,Education,Manipur,47.97,5,27.8,30.8,8.71,False,Approved,Environmental Non-Compliance; Technical Flaw,6.02,Needs Revision
+430,Health,Assam,6.22,0,29.3,34.3,0.0,True,Approved,Budget Miscalculation,9.43,Good
+431,Health,Assam,83.6,5,38.1,37.9,0.0,False,Revised,Timeline Unrealistic,7.41,Good
+432,Power,Manipur,69.47,1,15.3,19.7,0.0,True,Approved,None,8.24,Good
+433,Education,Meghalaya,62.98,2,19.3,23.6,10.99,False,Approved,None,9.32,Good
+434,Tourism,Assam,93.3,10,32.8,39.4,49.88,True,Revised,None,8.82,Good
+435,Power,Manipur,10.09,1,42.9,54.9,40.44,True,Rejected,Environmental Non-Compliance; Budget Miscalculation; Technical Flaw,4.63,Poor
+436,Education,Tripura,82.68,0,23.9,24.1,69.64,False,Approved,None,6.57,Needs Revision
+437,Power,Mizoram,75.21,1,36.0,42.1,0.0,True,Approved,None,9.59,Good
+438,Tourism,Mizoram,87.07,2,40.5,44.4,0.0,False,Revised,Environmental Non-Compliance; Timeline Unrealistic; Technical Flaw,5.59,Needs Revision
+439,Tourism,Nagaland,82.23,3,27.6,29.7,31.59,False,Approved,Technical Flaw,9.63,Good
+440,Education,Nagaland,94.83,0,41.3,51.6,0.0,True,Revised,None,8.05,Good
+441,Power,Mizoram,73.79,2,41.2,44.0,34.35,False,Approved,Timeline Unrealistic,8.92,Good
+442,Power,Arunachal Pradesh,19.23,10,19.8,18.3,16.12,False,Approved,Timeline Unrealistic,7.08,Good
+443,Health,Assam,2.9,2,46.2,45.4,0.0,False,Rejected,Budget Miscalculation; Timeline Unrealistic,6.98,Needs Revision
+444,Road,Tripura,15.28,2,47.0,59.7,0.0,True,Approved,Environmental Non-Compliance; Budget Miscalculation,6.18,Needs Revision
+445,Power,Manipur,91.25,5,23.0,28.1,14.61,True,Approved,Budget Miscalculation; Environmental Non-Compliance,6.05,Needs Revision
+446,Education,Tripura,66.0,0,31.8,40.9,0.0,True,Approved,None,9.24,Good
+447,Road,Tripura,42.87,0,10.5,14.4,33.93,False,Approved,Timeline Unrealistic; Environmental Non-Compliance; Budget Miscalculation,6.34,Needs Revision
+448,Power,Mizoram,22.61,3,32.4,40.1,0.0,True,Revised,Environmental Non-Compliance; Technical Flaw,10.0,Good
+449,Health,Tripura,67.76,2,34.8,46.0,0.0,True,Approved,None,9.24,Good
+450,Education,Sikkim,22.56,3,19.0,18.3,46.81,False,Revised,None,4.52,Poor
+451,Road,Mizoram,63.68,10,20.7,20.8,39.57,False,Approved,None,9.93,Good
+452,Power,Nagaland,18.22,10,6.7,11.7,13.48,False,Approved,Technical Flaw; Budget Miscalculation; Environmental Non-Compliance,9.88,Good
+453,Health,Arunachal Pradesh,79.72,10,47.5,49.2,3.09,False,Approved,None,5.96,Needs Revision
+454,Power,Nagaland,42.47,3,23.5,27.2,0.0,False,Approved,None,4.93,Poor
+455,Power,Tripura,50.18,10,26.3,31.2,0.0,False,Approved,Timeline Unrealistic,5.02,Needs Revision
+456,Tourism,Mizoram,4.41,0,40.3,52.5,59.73,True,Approved,Budget Miscalculation,6.53,Needs Revision
+457,Health,Nagaland,64.73,5,15.9,16.2,0.0,False,Approved,None,9.43,Good
+458,Education,Manipur,76.47,2,6.4,7.5,0.0,False,Approved,Technical Flaw,8.69,Good
+459,Tourism,Assam,24.07,1,13.5,18.2,33.01,True,Approved,Environmental Non-Compliance; Timeline Unrealistic,6.81,Needs Revision
+460,Power,Mizoram,63.05,5,47.8,52.2,24.29,False,Revised,Timeline Unrealistic,8.63,Good
+461,Road,Sikkim,22.55,1,44.4,55.7,71.42,True,Approved,Budget Miscalculation; Environmental Non-Compliance,4.71,Poor
+462,Road,Arunachal Pradesh,78.02,2,8.1,12.7,42.66,False,Approved,Budget Miscalculation; Technical Flaw,9.52,Good
+463,Road,Manipur,11.84,0,13.3,16.8,18.41,False,Approved,Technical Flaw; Timeline Unrealistic,4.53,Poor
+464,Education,Tripura,98.81,2,28.4,30.8,40.03,False,Approved,Technical Flaw; Timeline Unrealistic,6.69,Needs Revision
+465,Tourism,Arunachal Pradesh,27.62,1,34.6,45.0,11.0,True,Approved,None,5.99,Needs Revision
+466,Education,Assam,12.46,2,45.8,50.1,38.59,False,Revised,Budget Miscalculation; Technical Flaw; Timeline Unrealistic,8.94,Good
+467,Education,Assam,94.15,5,8.1,10.1,0.0,False,Approved,None,5.33,Needs Revision
+468,Road,Manipur,93.29,5,40.6,41.8,0.0,False,Approved,Timeline Unrealistic,7.49,Good
+469,Road,Assam,82.1,0,13.2,20.6,45.98,True,Approved,None,5.93,Needs Revision
+470,Tourism,Meghalaya,97.92,5,25.1,26.9,6.62,False,Approved,Timeline Unrealistic; Environmental Non-Compliance; Technical Flaw,9.63,Good
+471,Health,Assam,11.09,1,32.2,41.1,59.17,True,Approved,None,6.37,Needs Revision
+472,Education,Meghalaya,29.62,2,12.8,16.9,37.94,True,Revised,None,9.85,Good
+473,Health,Nagaland,84.97,5,39.8,41.9,2.77,False,Revised,Environmental Non-Compliance,9.87,Good
+474,Power,Meghalaya,56.19,1,16.0,20.5,22.88,True,Approved,Budget Miscalculation; Environmental Non-Compliance; Technical Flaw,6.02,Needs Revision
+475,Tourism,Assam,67.56,2,21.8,27.4,0.0,True,Rejected,Environmental Non-Compliance,5.76,Needs Revision
+476,Road,Sikkim,56.81,10,44.5,47.3,23.13,False,Approved,Budget Miscalculation; Technical Flaw,5.42,Needs Revision
+477,Road,Nagaland,49.81,1,14.2,21.5,73.24,True,Approved,Timeline Unrealistic,8.2,Good
+478,Health,Nagaland,67.53,2,14.5,21.2,0.0,True,Revised,Timeline Unrealistic; Budget Miscalculation,5.03,Needs Revision
+479,Tourism,Mizoram,20.87,5,28.7,33.1,0.0,True,Approved,Technical Flaw,8.92,Good
+480,Power,Manipur,74.3,2,38.9,40.3,0.0,False,Approved,Budget Miscalculation; Environmental Non-Compliance,7.61,Good
+481,Health,Manipur,4.21,5,37.3,41.8,33.28,False,Approved,Timeline Unrealistic; Environmental Non-Compliance,4.39,Poor
+482,Road,Manipur,57.09,5,12.0,10.4,0.0,False,Revised,Budget Miscalculation,7.65,Good
+483,Education,Arunachal Pradesh,32.56,5,14.8,13.0,0.0,False,Revised,Budget Miscalculation,4.98,Poor
+484,Education,Tripura,64.64,1,48.0,47.0,0.0,False,Revised,Technical Flaw; Environmental Non-Compliance; Timeline Unrealistic,7.99,Good
+485,Education,Arunachal Pradesh,52.65,1,9.8,12.6,19.39,True,Approved,Technical Flaw,6.67,Needs Revision
+486,Education,Assam,80.51,10,27.8,28.4,0.77,False,Approved,Budget Miscalculation; Technical Flaw,4.69,Poor
+487,Health,Arunachal Pradesh,78.29,0,30.3,37.0,41.56,True,Revised,Budget Miscalculation; Environmental Non-Compliance; Timeline Unrealistic,9.59,Good
+488,Education,Sikkim,10.39,1,36.6,43.3,31.14,True,Approved,Environmental Non-Compliance,9.4,Good
+489,Tourism,Tripura,12.44,3,29.1,28.6,33.17,False,Approved,Technical Flaw,9.91,Good
+490,Power,Meghalaya,98.16,2,20.3,23.0,47.04,False,Approved,Budget Miscalculation,6.02,Needs Revision
+491,Health,Sikkim,82.86,2,27.4,34.0,0.0,True,Approved,None,7.13,Good
+492,Tourism,Arunachal Pradesh,95.22,5,47.7,50.6,14.69,False,Approved,Environmental Non-Compliance,8.26,Good
+493,Education,Manipur,2.34,1,28.1,36.4,27.13,True,Approved,None,7.38,Good
+494,Education,Arunachal Pradesh,68.82,2,27.4,32.2,17.97,True,Revised,Technical Flaw; Budget Miscalculation,5.77,Needs Revision
+495,Health,Sikkim,42.73,10,37.3,46.0,0.0,True,Approved,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,8.12,Good
+496,Health,Meghalaya,8.24,10,23.4,22.6,13.41,False,Approved,Budget Miscalculation; Environmental Non-Compliance,6.72,Needs Revision
+497,Road,Assam,92.04,5,34.3,34.0,0.0,False,Approved,None,5.45,Needs Revision
+498,Health,Arunachal Pradesh,66.74,0,14.1,19.9,50.81,True,Approved,None,4.97,Poor
+499,Tourism,Assam,64.91,10,27.4,28.3,13.31,False,Approved,Technical Flaw; Environmental Non-Compliance; Budget Miscalculation,5.17,Needs Revision
+500,Tourism,Tripura,44.92,3,42.0,54.5,44.12,True,Approved,Budget Miscalculation; Timeline Unrealistic,7.3,Good
