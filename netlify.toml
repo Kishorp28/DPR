@@ -1,3 +1,4 @@
-[build]
-command = "pip install -r requirements.txt && streamlit hello"
-publish = "build"
+cd E:\sih\s2\drp
+git add netlify.toml
+git commit -m "Fix base directory in netlify.toml"
+git push origin main
