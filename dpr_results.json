@@ -1,0 +1,9 @@
+{
+    "project_type": "Watershed",
+    "location": "Dima Hasao",
+    "funding_amount_cr": 10.0,
+    "quality_score": 7.0286,
+    "risk_level": "Medium",
+    "predicted_overrun_pct": 16.5,
+    "issues_found": "None"
+}
